@@ -18,8 +18,9 @@ To assist with ACL rehabilitation tracking and fitness form correction by giving
    ```bash
    pip install opencv-python mediapipe numpy
 3. Run the script:
-   python squat_counter.py
-4. Press q to quit the live feed.
+   ```bash
+   python_rehab_assistant.py
+5. Press q to quit the live feed.
 
 ### How It Works
 - MediaPipe detects body landmarks
