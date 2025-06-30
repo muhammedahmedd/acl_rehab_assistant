@@ -12,7 +12,7 @@ To assist with ACL rehabilitation tracking and fitness form correction by giving
 - Visual squat rep counter
 - Feedback for shallow or too-deep squats
 
-### How TO Install
+### How To Install
 1. Clone this repository
 2. Install dependencies:
    ```bash
